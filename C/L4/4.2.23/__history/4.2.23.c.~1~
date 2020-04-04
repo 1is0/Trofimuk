@@ -1,0 +1,16 @@
+#include<conio.h>
+#include<malloc.h>
+#include<windows.h>
+#include<stdio.h>
+int main(void)
+{
+	FILE *fp;
+	fp=fopen("text.txt","r");
+	if(!fp)exit(1);
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+	getch();
+	fclose(fp);
+	return 0;
+}
+//---------------------------------------------------------------------------

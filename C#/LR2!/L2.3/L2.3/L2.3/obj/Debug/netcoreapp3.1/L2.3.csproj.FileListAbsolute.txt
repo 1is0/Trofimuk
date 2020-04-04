@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.exe
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.deps.json
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.runtimeconfig.json
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.dll
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\bin\Debug\netcoreapp3.1\L2.3.pdb
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\obj\Debug\netcoreapp3.1\L2.3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\obj\Debug\netcoreapp3.1\L2.3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\obj\Debug\netcoreapp3.1\L2.3.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\obj\Debug\netcoreapp3.1\L2.3.dll
+C:\Users\User\Desktop\C#\LR2!\L2.3\L2.3\L2.3\obj\Debug\netcoreapp3.1\L2.3.pdb
