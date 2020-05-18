@@ -1,0 +1,10 @@
+#ifndef PCH_H
+#define PCH_H
+
+#include "framework.h"
+
+extern "C" __declspec(dllexport) int Add(int a, int b);
+
+extern "C" __declspec(dllexport) int Sub(int a, int b);
+
+#endif //PCH_H

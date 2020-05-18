@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.exe
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.deps.json
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.json
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.dll
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\bin\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\obj\Debug\netcoreapp3.1\LR8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\obj\Debug\netcoreapp3.1\LR8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\obj\Debug\netcoreapp3.1\LR8.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\obj\Debug\netcoreapp3.1\LR8.dll
+C:\Users\User\Desktop\C#\LR8!\LR8\LR5\obj\Debug\netcoreapp3.1\LR8.pdb

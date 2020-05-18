@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.04.13 16:06:51.966,=C:\Users\User\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.04.13 16:19:35.819,C:\Users\User\Documents\RAD Studio\Projects\NDll.cpp=C:\Users\User\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020.04.13 16:19:43.506,C:\Users\User\Documents\RAD Studio\Projects\NDll.cbproj=C:\Users\User\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020.04.13 16:19:57.197,C:\Users\User\Desktop\C#\LR4!\L4.2\NDll\NDll.cpp=C:\Users\User\Documents\RAD Studio\Projects\NDll.cpp</Transaction>
+    <Transaction>2020.04.13 16:19:58.564,C:\Users\User\Desktop\C#\LR4!\L4.2\NDll\NDll.cbproj=C:\Users\User\Documents\RAD Studio\Projects\NDll.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

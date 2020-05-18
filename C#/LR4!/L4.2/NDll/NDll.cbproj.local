@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\User\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\User\Documents\RAD Studio\Projects\NDll.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\User\Documents\RAD Studio\Projects\NDll.cpp=C:\Users\User\Desktop\C#\LR4!\L4.2\NDll\NDll.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\User\Documents\RAD Studio\Projects\File1.cpp=C:\Users\User\Documents\RAD Studio\Projects\NDll.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\User\Documents\RAD Studio\Projects\NDll.cbproj=C:\Users\User\Desktop\C#\LR4!\L4.2\NDll\NDll.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,=C:\Users\User\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
