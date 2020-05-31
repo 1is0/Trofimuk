@@ -18,6 +18,7 @@ namespace LR6
                 if (value <= 0)
                 {
                     ViewEvent?.Invoke("Ошибка ввода параметра длины.");
+                    throw new ArgumentOutOfRangeException();
                 }
                 else
                 {
@@ -37,6 +38,7 @@ namespace LR6
                 if (value <= 0)
                 {
                     ViewEvent?.Invoke("Ошибка ввода параметра ширины.");
+                    throw new ArgumentOutOfRangeException();
                 }
                 else
                 {
@@ -56,6 +58,7 @@ namespace LR6
                 if (value <= 0)
                 {
                     ViewEvent?.Invoke("Ошибка ввода параметра высоты.");
+                    throw new ArgumentOutOfRangeException();
                 }
                 else
                 {

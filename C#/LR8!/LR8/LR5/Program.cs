@@ -13,15 +13,13 @@ namespace LR6
             Cupboard[] cupboards=new Cupboard[count];
             for(i=0;i< count; i++ )
             {
-                cupboards[i] = new Clothes();                
-                for (; specializations[i] != 1 && specializations[i] != 2 && specializations[i] != 3;)
-                {
-                   Console.WriteLine($"Введите специализацию шкафа {i+1} :");
-                    Console.WriteLine("1-для одежды");
-                    Console.WriteLine("2-для обуви");
-                    Console.WriteLine("3-для посуды");
-                    check = int.TryParse(Console.ReadLine(), out specializations[i]);
-                }
+                cupboards[i] = new Clothes();                 
+                Console.WriteLine($"Введите специализацию шкафа {i+1} :");
+                Console.WriteLine("1-для одежды");
+                Console.WriteLine("2-для обуви");
+                Console.WriteLine("3-для посуды");
+                check = int.TryParse(Console.ReadLine(), out specializations[i]);
+                
             }
             for (i = 0; i < count; i++)
             {

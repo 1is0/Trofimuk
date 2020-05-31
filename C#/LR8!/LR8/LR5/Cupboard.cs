@@ -54,10 +54,17 @@ namespace LR6
                     this.Length = 6;
                     break;
                 default:
-                    ErorEvent("Ошибка ввода,поэтому был создан шкаф размеров 1-1-1.");
-                    this.Wight = 1;
-                    this.Heigth = 1;
-                    this.Length = 1;
+                    ErorEvent("Ошибка ввода.");
+                    try
+                    {
+                        this.Wight = -1;
+                        this.Heigth = -1;
+                        this.Length = -1;
+                    }
+                    catch(ArgumentOutOfRangeException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
                     break;
             }
         }
